@@ -1,0 +1,10 @@
+^C:\USERS\52556\DESKTOP\JBMX_INSOMNIA_FLUTTER-MASTER\BUILD\WINDOWS\CMAKEFILES\B6821AECDCC9A372C625F09A73515726\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

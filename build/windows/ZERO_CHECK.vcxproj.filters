@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\52556\Desktop\JBMX_INSOMNIA_FLUTTER-master\build\windows\CMakeFiles\b6821aecdcc9a372c625f09a73515726\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{11782724-E264-354D-9874-B1C0D7F65C0F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
